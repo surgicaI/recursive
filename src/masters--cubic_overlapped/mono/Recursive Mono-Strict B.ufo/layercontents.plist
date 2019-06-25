@@ -18,5 +18,13 @@
       <string>overlap</string>
       <string>glyphs.overlap</string>
     </array>
+    <array>
+      <string>ver1</string>
+      <string>glyphs.ver1</string>
+    </array>
+    <array>
+      <string>ver2</string>
+      <string>glyphs.ver2</string>
+    </array>
   </array>
 </plist>
