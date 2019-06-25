@@ -42,19 +42,38 @@ Work was divided into 3 stages that corresponds to different priority levels
     ### math operators
     |ligature|name                    |
     |--------|------------------------|
-    |+       |plus.code               |
     |++      |plus_plus.code          |
     |+++     |plus_plus_plus.code     |
-    |-       |hyphen.code             |
     |—       |hyphen_hyphen.code      |
     |—-      |hyphen_hyphen_hyphen.code|
-    |*       |asterix.code            |
     |**      |asterix_asterix.code    |
     |***     |asterix_asterix_asterix.code|
-    |+=      |                        |
-    |-=      |                        |
-    |*=      |                        |
+    |+=      |plus_equal.code         |
+    |-=      |minus_equal.code        |
+    |*=      |asterix_equal.code      |
     |/=      |                        |
+
+    ### arrows
+    |ligature|name                       |
+    |--------|---------------------------|
+    |<-<     |less_hyphen_less.code      |
+    |<<-     |less_less_hyphen.code      |
+    |<--     |less_hyphen_hyphen.code    |
+    |<-      |less_hyphen.code           |
+    |<->     |less_hyphen_greater.code   |
+    |->      |hyphen_greater.code        |
+    |-->     |hyphen_hyphen_greater.code |
+    |->>     |hyphen_greater_greater.code|
+    |>->     |greater_hyphen_greater.code|
+    |<=<     |less_equal_less.code       |
+    |<<=     |less_less_equal.code       |
+    |<==     |less_equal_equal.code      |
+    |<=      |less_equal.code            |
+    |<=>     |less_equal_greater.code    |
+    |=>      |equal_greater.code         |
+    |==>     |equal_equal_greater.code   |
+    |=>>     |equal_greater_greater.code |
+    |>=>     |greater_equal_greater.code |
 
     ### comments and others
     |ligature|name                    |
@@ -65,7 +84,6 @@ Work was divided into 3 stages that corresponds to different priority levels
     |//      |slash_slash.code        |
     |///     |slash_slash_slash.code  |
     |'''     |quotesinge_quotesinge_quotesinge.code|
-    |#       |numbersign.code         |
     |##      |numbersign_numbersign.code|
     |###     |numbersign_numbersign_numbersign.code|
 
