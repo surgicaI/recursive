@@ -46,6 +46,8 @@
     <string>a.italic.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
+    <key>ampersand_ampersand.code</key>
+    <string>ampersand_ampersand.code.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
     <key>at</key>
@@ -76,6 +78,10 @@
     <string>e.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>equal_equal_equal.code</key>
+    <string>equal_equal_equal.code.glif</string>
+    <key>exclam_equal_equal.code</key>
+    <string>exclam_equal_equal.code.glif</string>
     <key>f</key>
     <string>f.glif</string>
     <key>f.curvy</key>
@@ -152,8 +158,14 @@
     <string>period.glif</string>
     <key>perthousand</key>
     <string>perthousand.glif</string>
+    <key>plus_equal.code</key>
+    <string>plus_equal.code.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>question_colon.code</key>
+    <string>question_colon.code.glif</string>
+    <key>question_period.code</key>
+    <string>question_period.code.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
     <key>quotesingle</key>

@@ -2,13 +2,13 @@
 <glyph name="bar_bar.code" format="2">
   <advance width="1200"/>
   <outline>
-    <component base="bar"/>
-    <component base="bar" xOffset="600"/>
+    <component base="bar" xOffset="82"/>
+    <component base="bar" xOffset="520"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>

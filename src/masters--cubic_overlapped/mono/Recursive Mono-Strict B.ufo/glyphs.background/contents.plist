@@ -44,6 +44,8 @@
     <string>ampersand_ampersand.code.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
+    <key>asterisk_equal.code</key>
+    <string>asterisk_equal.code.glif</string>
     <key>at</key>
     <string>at.glif</string>
     <key>b</key>
@@ -86,6 +88,8 @@
     <string>eight.nokinks.glif</string>
     <key>equal_equal_equal.code</key>
     <string>equal_equal_equal.code.glif</string>
+    <key>equal_slash_equal.code</key>
+    <string>equal_slash_equal.code.glif</string>
     <key>exclam_equal_equal.code</key>
     <string>exclam_equal_equal.code.glif</string>
     <key>f</key>
@@ -130,6 +134,8 @@
     <string>m.glif</string>
     <key>m.italic</key>
     <string>m.italic.glif</string>
+    <key>minus_equal.code</key>
+    <string>minus_equal.code.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>n.evencut</key>
@@ -162,8 +168,14 @@
     <string>parenleft.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>plus_equal.code</key>
+    <string>plus_equal.code.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>question_colon.code</key>
+    <string>question_colon.code.glif</string>
+    <key>question_period.code</key>
+    <string>question_period.code.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>r.inktraps</key>

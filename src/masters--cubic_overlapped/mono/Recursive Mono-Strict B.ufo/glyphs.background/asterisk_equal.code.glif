@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="plus_equal.code" format="2">
-  <advance width="1200"/>
+<glyph name="asterisk_equal.code" format="2">
+  <advance width="500"/>
   <outline>
     <contour>
       <point x="630" y="500" type="line"/>
       <point x="630" y="369" type="line"/>
-      <point x="630" y="366"/>
-      <point x="631" y="363"/>
-      <point x="633" y="361" type="curve"/>
+      <point x="630" y="365"/>
+      <point x="636" y="363"/>
+      <point x="638" y="361" type="curve"/>
       <point x="635" y="359"/>
-      <point x="638" y="358"/>
-      <point x="641" y="358" type="curve"/>
+      <point x="643" y="358"/>
+      <point x="646" y="358" type="curve"/>
       <point x="1110" y="358" type="line"/>
       <point x="1110" y="489" type="line" smooth="yes"/>
       <point x="1110" y="495"/>
@@ -73,11 +73,7 @@
       <point x="286" y="50"/>
       <point x="325" y="50"/>
     </contour>
+    <component base="asterisk"/>
+    <component base="equal" xOffset="600"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

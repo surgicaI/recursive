@@ -2,13 +2,13 @@
 <glyph name="exclam_exclam.code" format="2">
   <advance width="1200"/>
   <outline>
-    <component base="exclam"/>
-    <component base="exclam" xOffset="600"/>
+    <component base="exclam" xOffset="70"/>
+    <component base="exclam" xOffset="530"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0,1,1</string>
+      <string>0,1,0,1</string>
     </dict>
   </lib>
 </glyph>
